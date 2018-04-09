@@ -1,4 +1,4 @@
-# 安装Git
+# 一.安装Git
 
 ```
 $ git config --list  显示当前Git配置
