@@ -1,1 +1,2 @@
-git diff 命令1
+git diff 命令
+哈哈哈 把我留在工作区
