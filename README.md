@@ -20,4 +20,15 @@ $ git add .  添加当前目录的所有文件到暂存区
 ```
 git commit -m "message" 提交暂存区到仓库区
 ```
+
 ![工作区和暂存区](https://cdn.liaoxuefeng.com/cdn/files/attachments/001384907702917346729e9afbf4127b6dfbae9207af016000/0)
+[from](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013745374151782eb658c5a5ca454eaa451661275886c6000)
+![日常6个命令](http://www.ruanyifeng.com/blogimg/asset/2015/bg2015120901.png)
+[from](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
+```
+专用名词的译名
+  - Workspace：工作区
+  - Index / Stage：暂存区
+  - Repository：仓库区（或本地仓库）
+  - Remote：远程仓库
+```
