@@ -42,4 +42,5 @@ git commit -m "message" 提交暂存区到仓库区
 ```
 $ git status 显示有变更的文件
 $ git diff [file] 显示工作区有变更的文件
+$ git log 显示当前分支的版本历史
 ```
