@@ -1,9 +1,13 @@
 ```
 $ git init
 
-$ git add  <file> / . (file 文件名/ . 提交全部修改的文件) 
+  $git st // 查询有变更的文件
 
-$ git commit -m "" (引号内填写本次提交的说明)
+$ git add  <file> / . // file 文件名/ . 提交全部修改的文件 
+
+  $git st // 查询待提交的文件
+
+$ git commit -m "" // 引号内填写本次提交的说明
  
 ```
 1. 在本地创建一个空目录(进入该目录-->鼠标右键-->点击git dash here);
