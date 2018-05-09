@@ -3,7 +3,7 @@ $ git init
 
 $ git st // 查询有变更的文件
 
-$ git add  <file> / . // file 文件名/ . 提交全部修改的文件 
+$ git add  <file> 或者 . // file 文件名, '点'提交全部变更的文件 
 
 $ git st // 查询待提交的文件
 
