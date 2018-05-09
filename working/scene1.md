@@ -16,9 +16,9 @@ $ git commit -m "" // 引号内填写本次提交的说明
 
 添加文件到Git仓库，分两步：
 
-3. 1> 用命令git add告诉Git，把文件添加到仓库;
+3. - 用命令git add告诉Git，把文件添加到仓库;
 
-   2> 用命令git commit告诉Git，把文件提交到仓库.
+   - 用命令git commit告诉Git，把文件提交到仓库.
 
    
 
