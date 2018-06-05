@@ -1,4 +1,4 @@
-### 安装Git
+### 安装Git1
 ```
 $ git config --list  显示当前Git配置
 $ git config -e  查看url及分支
