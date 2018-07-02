@@ -3,6 +3,10 @@ $ git clone git@github.com:lumeme/gitstudy.git
 
 $ git branch // 查看分支 默认是master分支
 
+$ git checkout -b dev origin/dev 自动创建一个新的本地分支，并与指定的远程分支关联起来
+
+
+
 
 
 
