@@ -1,4 +1,5 @@
-### 安装Git1
+
+### 安装Git
 ```
 $ git config --list  显示当前Git配置
 $ git config -e  查看url及分支
@@ -43,4 +44,22 @@ git commit -m "message" 提交暂存区到仓库区
 $ git status 显示有变更的文件
 $ git diff [file] 显示工作区有变更的文件
 $ git log 显示当前分支的版本历史
+$ git remote 查看远程库的信息
+$ git remote -v 显示更详细的信息
+
+```
+### 单词解释
+```
+merge 合并
+remote 远程
+origin 起源
+fork 分叉
+pull 拉 push 推送
+checkout 检出
+request 需求
+fetch 抓取
+feature 新功能
+
+pull request 就是一个"请求"(request)
+git pull  由两个命令完成  git fetch(拿来)+git merge
 ```
