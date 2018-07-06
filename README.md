@@ -1,4 +1,3 @@
-### devtest 分支
 ```
 Git是什么?
 Git是目前世界上最先进的分布式版本控制系统
@@ -18,5 +17,5 @@ $ git config --global user.email "email@example.com"
 
 ```
 该步是为了告诉Git你的名字和Email地址,以防别人冒用.
-### 在Mac OS X上安装Git
+//### 在Mac OS X上安装Git
 
